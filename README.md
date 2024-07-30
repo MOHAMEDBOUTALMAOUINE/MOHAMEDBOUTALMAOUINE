@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BOUTALMAOUINE Mohammed</h1>
+<h1 align="center">Hi 👋, I'm BOUTALMAOUINE Mohamed</h1>
 <h3 align="center">A cybersecurity engineer with a strong passion from Morocco.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedboutalmaouine&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedboutalmaouine" /> </p>
