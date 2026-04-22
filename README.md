@@ -1,101 +1,62 @@
-<h1 align="center">Hi 👋, I'm Mohamed Boutalmaouine</h1>
-<h3 align="center">Cybersecurity & Digital Trust Engineer 🔐 | Morocco 🇲🇦</h3>
+<!-- Header animé -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185FA5&height=200&section=header&text=Mohamed%20Boutalmaouine&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%26%20Digital%20Trust%20Engineer&descAlignY=58&descColor=d0eaff" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedboutalmaouine&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamedboutalmaouine&theme=dracula&no-frame=true&row=1&column=7" alt="Trophies" />
-  </a>
-</p>
+<!-- Badges statut -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Security_Engineer-0f6e56?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC_Analyst-185FA5?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTF_Player-534AB7?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Morocco_🇲🇦-D85A30?style=flat-square&logoColor=white" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=mohamedboutalmaouine&label=Profile%20views&color=185FA5&style=flat-square" />
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Final-year engineering student specializing in **IT Security and Digital Trust**
-- 🛡️ Passionate about **Network Security**, **SOC** environments, and **CTF** challenges
-- ⚙️ Building expertise in securing infrastructures and national digital transformation
-- 💻 Projects: [github.com/MOHAMEDBOUTALMAOUINE](https://github.com/MOHAMEDBOUTALMAOUINE)
-- 📫 Contact: **mohamed.boutalmaouine.78@edu.uiz.ac.ma**
+```txt
+🎓  Final-year engineering student · IT Security & Digital Trust · UIZ Morocco
+🛡️  Focused on Network Defense, SOC Operations, and Penetration Testing
+🚩  Active CTF competitor · always learning, always hacking (ethically)
+⚙️  Building expertise to secure Morocco's national digital infrastructure
+📫  mohamed.boutalmaouine.78@edu.uiz.ac.ma
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedboutalmaouine&theme=nord&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⚙️ DevOps & System
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+### ⚙️ System & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git&theme=dark" />
 </p>
 
-### 💻 Programming Languages
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php&theme=dark" />
 </p>
 
 ### 🗄️ Databases
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,oracle&theme=dark" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
 ### 🧰 Frameworks & Tools
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,bootstrap,firebase,arduino&theme=dark" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
 ---
@@ -103,28 +64,38 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedboutalmaouine&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedboutalmaouine&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedboutalmaouine&show_icons=true&theme=nord&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedboutalmaouine&theme=nord&hide_border=true&border_radius=10" width="48%" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedboutalmaouine&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedboutalmaouine&layout=compact&theme=nord&hide_border=true&border_radius=10&langs_count=8" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedboutalmaouine&theme=nord&hide_border=true&radius=10" width="48%" />
 </div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohamedboutalmaouine" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="center">
+  <a href="https://linkedin.com/in/mohamedboutalmaouine">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://fb.com/mohammedbouta" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://github.com/MOHAMEDBOUTALMAOUINE">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/mohammedbouta" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://fb.com/mohammedbouta">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-</p>
+  <a href="https://instagram.com/mohammedbouta">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:mohamed.boutalmaouine.78@edu.uiz.ac.ma">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<!-- Footer animé -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0f6e56&height=120&section=footer" />
+</div>
